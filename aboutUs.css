@@ -1,0 +1,17 @@
+button {
+    background-color: gray;
+    border:0px;
+    color: bisque;
+    font-size: 42px;
+    margin-right: 72px;
+}
+.menu {
+    background-color: gray; 
+ }
+ a {
+    color: cornflowerblue;
+ }
+ p {
+    background-color: darkgray;
+    color: rgb(249, 247, 240);
+ }

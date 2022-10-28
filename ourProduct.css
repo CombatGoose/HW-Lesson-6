@@ -1,0 +1,13 @@
+.menu {
+    background-color: gray; 
+}
+button {
+    background-color: gray;
+    border:0px;
+    color: bisque;
+    font-size: 42px;
+    margin-right: 72px;
+}
+a {
+    color: cornflowerblue;
+}
